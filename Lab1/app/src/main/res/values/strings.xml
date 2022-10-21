@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="ChooseDishTitle">Choose your dish</string>
+    <string name="priceCheckbox1"><![CDATA[<100]]></string>
+    <string name="priceCheckbox2">100–200</string>
+    <string name="priceCheckbox3">200–300</string>
+    <string name="priceCheckbox4"><![CDATA[>300]]></string>
+    <string name="PriceTitle">Price</string>
+    <string name="ManufacturerTitle">Manufacturer</string>
+    <string name="Manufacturer2">Manufacturer 2</string>
+    <string name="Manufacturer1">Manufacturer 1</string>
+    <string name="submitButtonText">SUBMIT</string>
+    <string-array name="dishes_array">
+        <item>Mug</item>
+        <item>Coffee cup</item>
+        <item>Teacup</item>
+        <item>Plate</item>
+        <item>Bowl</item>
+        <item>Teapot</item>
+        <item>Pitcher</item>
+    </string-array>
+</resources>
